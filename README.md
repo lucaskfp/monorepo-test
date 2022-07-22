@@ -1,1 +1,1 @@
-## Simple example using yarn workspaces
+## Simple example using yarn monorepo + workspaces
