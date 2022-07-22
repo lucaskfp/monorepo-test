@@ -4,6 +4,9 @@
   "private": true,
   "author": "Lucas Kennedy <lukakfp@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "yarn workspace @monorepo/calc start"
+  },
   "workspaces":{
     "packages": ["packages/*"]
   }
